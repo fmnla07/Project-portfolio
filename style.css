@@ -1,0 +1,110 @@
+body {
+    background-color: #f9f9fb;
+    font-family: Arial, sans-serif;
+    padding-top: 50px;
+}
+.top-section{
+    height: 570px;
+    background-image: url(./images/bg-image.jpg);
+     border-bottom-left-radius: 100px;
+}
+.top-text {
+    margin-left: 50px;
+    padding: 150px;
+}
+.top-section h1 {
+    color: #091E42;
+    font-weight: 700;
+}
+.top-section p {
+    color: #344563;
+}
+.social-icons span {
+    font-size: 16px;
+    color: #7F8CFF;
+}
+.social-icons a {
+    margin-right: 20px;
+    color: #505F79;
+}
+.project-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+    margin-top: 100px;
+    height: 300px;
+    margin-bottom: 40px;
+}
+.project-card img {
+    max-width: 100%;
+    min-height: 100%;
+    border-radius: 8px;
+}
+.tech-badge {
+    display: inline-block;
+    background: #EBEBFF;
+    color: #6070FF;
+    padding: 4px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-right: 5px;
+}
+.btn-project {
+    margin-top: 5px;
+    background-color: white;
+    color: #396DF2;
+    border-radius: 6px;
+    border:10px;
+    border: 1px solid #396DF2;
+}
+.about-section{
+    border-top-right-radius: 100px;
+    background: #fff;
+    margin-top: 100px;
+    height: 400px;
+}
+.about-text {
+    margin-left: 50px;
+}
+.about-section h3 {
+    color: #091E42;
+    margin-top: 100px;
+}
+.about-section p {
+    color: #344563;
+}
+.skills-card {
+    margin-top: 70px;
+}
+.contact-section{
+    border-top-right-radius: 100px;
+    background: #6070FF;
+    margin-top: 100px;
+    height: 550px;
+}
+.contact-box {
+    margin-top: 100px;
+}
+.contact-section h4{
+    color: #FFFFFF;
+}
+.contact-section p{
+    color: #FFFFFF;
+}
+.form-box{
+    width:60%;
+    margin-left: 100px;
+
+}
+.btn-custom {
+    background-color: #FFFFFF;
+    color: #396DF2;
+    border-radius: 6px;
+    border:10px;
+    border: 1px solid #396DF2;
+    margin-left: 100px;
+}
+.btn-custom:hover{
+    background-color: #396DF2;
+}
